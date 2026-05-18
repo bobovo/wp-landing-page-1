@@ -13,7 +13,7 @@ A aplicação foi desenvolvida utilizando uma abordagem profissional que une **i
 ---
 
 ## 📸 Interface do Projeto
-![Demonstração da Landing Page](README_SCREENSHOT.png)
+![Demonstração da Landing Page](Screenshot 2026-05-18 at 10-17-33 Âncora Legal - Advocacia Especializada.png)
 
 ---
 
