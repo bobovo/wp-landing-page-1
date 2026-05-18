@@ -1,7 +1,7 @@
 # ⚖️ Landing Page Institucional - Âncora Legal Advocacia
 
 ### 🚀 Projeto de Portfólio Técnico - Desenvolvimento Web Moderno
-**Desenvolvedor:** Bob  
+**Desenvolvedor:** Jardel  
 
 ---
 
