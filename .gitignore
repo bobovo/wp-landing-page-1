@@ -1,0 +1,4 @@
+db_data/
+wp-admin/
+wp-include/
+.DS_Store
