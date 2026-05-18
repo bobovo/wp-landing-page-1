@@ -40,3 +40,10 @@ A aplicação foi desenvolvida utilizando uma abordagem profissional que une **i
    ```bash
    git clone [https://github.com/bobovo/wp-landing-page-1.git](https://github.com/bobovo/wp-landing-page-1.git)
    cd wp-landing-page-1
+
+2. Suba a infraestrutura isolada com o Docker:
+   ```bash
+   docker-compose up -d
+
+3. Acesse no seu navegador: http://localhost:8001
+
